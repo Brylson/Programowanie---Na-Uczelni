@@ -2,7 +2,7 @@ Zadania - Bash
 ==========================
 Zadanie nr 1
 
-  --sh
+ ```sh
   
   mkdir temp
   cd temp
@@ -32,7 +32,7 @@ Zadanie nr 1
   cal 11 2009 -3
 
  
-
+```
   
 
   ![logo](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png).
