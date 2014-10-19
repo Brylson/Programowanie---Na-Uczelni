@@ -1,6 +1,6 @@
 Zadania - Bash
 ==========================
-1\.
+Zadanie nr 1
 
   -sh
 
