@@ -25,6 +25,9 @@ Zadanie nr 1
   cp xaa xab xac ../../dokumenty
   cd ../../dokumenty
   cat *>odtworzono.txt
+  cp odtworzono.txt ../../dom/wazne-sprawy
+  cd ../../dom/wazne-sprawy
+ 
 
   
 
