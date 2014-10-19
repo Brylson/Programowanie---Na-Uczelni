@@ -30,8 +30,22 @@ Zadanie nr 1
   cal 10 2009
   cal 10 2009 -3
   cal 11 2009 -3
+  
 
  
+```
+Zadanie nr 2
+
+```sh
+ head -n 2 program.c
+ tail -n 4 program.c
+ grep "main" program.c
+ chmod 640 program.c
+
+
+
+
+
 ```
   
 
