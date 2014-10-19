@@ -1,2 +1,3 @@
-Programowanie---Na-Uczelni
+Zadania - Bash
 ==========================
+1.  Zadania
