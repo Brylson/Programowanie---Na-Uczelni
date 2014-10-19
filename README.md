@@ -2,7 +2,7 @@ Zadania - Bash
 ==========================
 Zadanie nr 1
 
-  -sh
+  --sh
   
   mkdir temp
   cd temp
