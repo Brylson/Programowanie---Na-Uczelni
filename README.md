@@ -27,6 +27,10 @@ Zadanie nr 1
   cat *>odtworzono.txt
   cp odtworzono.txt ../../dom/wazne-sprawy
   cd ../../dom/wazne-sprawy
+  cal 10 2009
+  cal 10 2009 -3
+  cal 11 2009 -3
+
  
 
   
