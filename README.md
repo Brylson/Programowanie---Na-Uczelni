@@ -4,4 +4,4 @@ Zadania - Bash
 
   -sh
 
-  ![logo]https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png
+  ![logo](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png).
